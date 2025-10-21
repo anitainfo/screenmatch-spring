@@ -28,3 +28,5 @@ Projeto desenvolvido durante os cursos de **Spring Boot e Java** da Alura, com f
 - Requisições HTTP e consumo de APIs externas  
 - Manipulação de JSON
 - Injeção de dependências e camada de serviços
+
+OBS: Frontend relacionado disponível no [repositório](https://github.com/jacqueline-oliveira/3356-java-web-front).
