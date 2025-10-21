@@ -4,6 +4,13 @@ Projeto desenvolvido durante os cursos de **Spring Boot e Java** da Alura, com f
 
 ---
 
+## 🖼️ Exemplo de execução
+![Tela principal](screenmatch/assets/tela1.png)
+![Tela 2](screenmatch/assets/tela2.png)
+![Tela 3](screenmatch/assets/tela3.png)
+
+---
+
 ## ⚙️ Tecnologias
 
 - Java 17  
