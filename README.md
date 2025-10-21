@@ -15,23 +15,6 @@ Projeto desenvolvido durante os cursos de **Spring Boot e Java** da Alura, com f
 
 ---
 
-## 🚀 Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/screenmatch.git
-   cd screenmatch
-2. Compile o projeto:
-  ```bash
-  mvn clean install
-```
-3. Execute:
-  ```bash
-  mvn spring-boot:run
-```
-4. Acesse no navegador:
-👉 http://localhost:8080
-
 🧠 Conceitos Aprendidos
 - Criação de APIs REST com Spring Boot  
 - Persistência de dados com Spring Data JPA  
